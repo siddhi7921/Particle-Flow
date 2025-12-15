@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Particle Flow",
+  "name": "Siddhi Particle Flow",
   "description": "A high-performance interactive particle system controlled by touch physics and AI vision-based hand gestures.",
   "requestFramePermissions": [
     "camera"
